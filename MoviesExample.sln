@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesExample", "MoviesExample\MoviesExample.csproj", "{C8DF8760-4AF5-4E7B-A971-143D638F4AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{0C8388EB-A55C-4382-B728-BE51A2FA7712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DF8760-4AF5-4E7B-A971-143D638F4AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DF8760-4AF5-4E7B-A971-143D638F4AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DF8760-4AF5-4E7B-A971-143D638F4AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DF8760-4AF5-4E7B-A971-143D638F4AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8388EB-A55C-4382-B728-BE51A2FA7712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8388EB-A55C-4382-B728-BE51A2FA7712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8388EB-A55C-4382-B728-BE51A2FA7712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8388EB-A55C-4382-B728-BE51A2FA7712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E544FB4B-5F37-445A-8C21-6A6E7F4CE2F8}
+	EndGlobalSection
+EndGlobal
